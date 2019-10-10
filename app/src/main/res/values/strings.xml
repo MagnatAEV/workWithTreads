@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WorkWithTreads</string>
+    <string name="sign">Подписаться</string>
+    <string name="unsign">Отписаться</string>
+    <string name="spam">Спам</string>
+    <string name="test">тест</string>
+</resources>
